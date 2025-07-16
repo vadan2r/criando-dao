@@ -3,7 +3,8 @@ Projeto DIO - Criando uma Organização Autônoma Descentralizada nos Padrões W
 
 # Criando uma Organização Autônoma Descentralizada (DAO)
 
-Este guia fornece um passo a passo simplificado para criar uma DAO, com base nas informações apresentadas. Lembre-se que a criação de uma DAO bem-sucedida é um processo complexo que exige planejamento cuidadoso e engajamento da comunidade.
+Este guia fornece um passo a passo simplificado para criar uma DAO. 
+Lembre-se que a criação de uma DAO bem-sucedida é um processo complexo que exige planejamento cuidadoso e engajamento da comunidade.
 
 ## Desafios Fundamentais (Considerações Importantes)
 
